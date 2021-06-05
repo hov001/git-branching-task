@@ -1,3 +1,5 @@
+'use strict'
+
 // Write a function that makes the first number as large as possible by swapping out its digits for digits in the second number.
 // maxPossible(9328, 456) ➞ 9658
 // 9658 is the largest possible number built from swaps from 456.
